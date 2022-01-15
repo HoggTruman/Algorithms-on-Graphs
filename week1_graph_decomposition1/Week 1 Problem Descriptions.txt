@@ -1,0 +1,14 @@
+WEEK 1 PROBLEM DESCRIPTIONS
+
+-------------------------------------------------
+1) finding_exit_from_maze
+
+Given an undirected graph and two distinct vertices 𝑢 and 𝑣, check if there is a path between 𝑢 and 𝑣.
+
+-------------------------------------------------
+2) adding_exits_to_maze
+
+Given an undirected graph with 𝑛 vertices and 𝑚 edges, compute the number of connected components
+in it.
+
+-------------------------------------------------

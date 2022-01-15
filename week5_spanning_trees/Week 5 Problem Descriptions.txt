@@ -1,0 +1,16 @@
+WEEK 5 PROBLEM DESCRIPTIONS
+
+-------------------------------------------------
+1) connecting_points
+
+Given 𝑛 points on a plane, connect them with segments of minimum total length such that there is a
+path between any two points.
+
+-------------------------------------------------
+2) clustering
+
+Given 𝑛 points on a plane and an integer 𝑘, compute the largest possible value of 𝑑 such that the
+given points can be partitioned into 𝑘 non-empty subsets in such a way that the distance between any
+two points from different subsets is at least 𝑑.
+
+-------------------------------------------------

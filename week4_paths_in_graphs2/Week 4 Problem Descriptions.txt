@@ -1,0 +1,22 @@
+WEEK 4 PROBLEM DESCRIPTIONS
+
+-------------------------------------------------
+1) minimum_flight_cost
+
+Given a directed graph with positive edge weights and with 𝑛 vertices and 𝑚 edges as well as two
+vertices 𝑢 and 𝑣, compute the weight of a shortest path between 𝑢 and 𝑣 (that is, the minimum total
+weight of a path from 𝑢 to 𝑣).
+
+-------------------------------------------------
+2) detecting_anomalies
+
+Given a directed graph with possibly negative edge weights and with 𝑛 vertices and 𝑚 edges, check
+whether it contains a cycle of negative weight.
+
+-------------------------------------------------
+3) exchanging_money
+
+Given a directed graph with possibly negative edge weights and with 𝑛 vertices and 𝑚 edges as well
+as its vertex 𝑠, compute the length of shortest paths from 𝑠 to all other vertices of the graph.
+
+-------------------------------------------------
